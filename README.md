@@ -1,2 +1,2 @@
-# Intensiv-o-de-Python---Hashtag
+# Intensivo de Python - Hashtag
 Curso de 4 aulas básicas sobra Python
